@@ -1,8 +1,8 @@
 # JediSwap
 
-Clone of Uniswap V2 to Cairo. AMM for StarkNet.
+Клон of Uniswap V2 на Cairo. AMM для StarkNet.
 
-## Testing and Development
+## Тестирование и разработка
 
 We use [Protostar](https://docs.swmansion.com/protostar/) for our testing and development purposes. 
 Protostar is a StarkNet smart contract development toolchain, which helps you with dependencies management, compiling and testing cairo contracts.
