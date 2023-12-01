@@ -8,15 +8,15 @@
 
 Protostar - это набор для разработки смарт-контрактов на StarkNet, который помогает с управлением зависимостями, компилированием и тестированием контрактов на Cairo. 
 
-### Install Protostar
+### Установка Protostar
 
 
-1. Copy and run in a terminal the following command:
+1. Скопируйте и запустите в терминале следующую команду:
 ```
 curl -L https://raw.githubusercontent.com/software-mansion/protostar/master/install.sh | bash
 ```
-2. Restart the terminal.
-3. Run `protostar -v` to check Protostar and cairo-lang version.
+2. Перезапустите терминал.
+3. Запустите команду `protostar -v` для проверки версий Protostar и cairo-lang.
 
 #### Note 
 Protostar requires version 2.28 or greater of Git.
