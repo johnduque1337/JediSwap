@@ -3,9 +3,9 @@
 При внесении своего вклада в данный репозиторий, пожалуйста, сначала обсудите изменение через Github Issue, Discord, или любой другой метод с владельцами данного репозитория, прежде чем вносить какие-либо изменения.
 Примите во внимание, что у нас есть [кодекс поведения](CODE_OF_CONDUCT.md), пожалуйста, следуйте ему при взаимодействии с проектом.
 
-## Issues and feature requests
+## Issues и feature requests
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? You can help us by [submitting an issue on GitHub](https://github.com/jediswaplabs/JediSwap/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+Нашли баг в коде, ошибку в документации или хотите запросить новый функционал? Вы можете помочь нам, [отправив issue на GitHub](https://github.com/jediswaplabs/JediSwap/issues). Прежде чем вы откроете Issue, воспользуйтесь поиском по архиву: возможно, ваша проблема уже была решена!
 
 Please try to create bug reports that are:
 
