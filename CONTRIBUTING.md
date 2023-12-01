@@ -1,7 +1,7 @@
-# Contributing
+# Внесение своего вклада
 
-When contributing to this repository, please first discuss the change you wish to make via issue, discord, or any other method with the owners of this repository before making a change.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+При внесении своего вклада в данный репозиторий, пожалуйста, сначала обсудите изменение через Github Issue, Discord, или любой другой метод с владельцами данного репозитория, прежде чем вносить какие-либо изменения.
+Примите во внимание, что у нас есть [кодекс поведения](CODE_OF_CONDUCT.md), пожалуйста, следуйте ему при взаимодействии с проектом.
 
 ## Issues and feature requests
 
