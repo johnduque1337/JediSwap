@@ -40,28 +40,28 @@ protostar test
 ### Запуск скриптов
 
 
-#### Setup a local virtual env
+#### Установка локального виртуального окружения
 
 ```
 python -m venv ./venv
 source ./venv/bin/activate
 ```
 
-#### Install dependencies
+#### Установка зависимостей
 ```
 pip install -r requirements.txt
 ```
 
-Find more info about the installed dependencies here:
+Больше информации об устанавливемых зависимостях можно найти тут:
 * [starknet-devnet](https://github.com/Shard-Labs/starknet-devnet)
 * [starknet.py](https://github.com/software-mansion/starknet.py)
 
 
-#### Run Scripts
+#### Запуск скриптов
 
-All scripts are placed in ```scripts``` folder. testnet config is not committed, please create your own in ```scripts/config```
+Все скрипты находятся в директории ```scripts```. Конфигурационный файл отсутсвует, пожалуйста, создайте свой в ```scripts/config```
 
-To run scripts on local system, you first need to run a devnet server:
+Для запуска скриптов налокальной системе вам сначала нужно запустить devnet-сервер:
 ```
 starknet-devnet
 ```
