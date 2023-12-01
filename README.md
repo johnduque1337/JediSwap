@@ -18,26 +18,26 @@ curl -L https://raw.githubusercontent.com/software-mansion/protostar/master/inst
 2. Перезапустите терминал.
 3. Запустите команду `protostar -v` для проверки версий Protostar и cairo-lang.
 
-#### Note 
-Protostar requires version 2.28 or greater of Git.
+#### Примечание 
+Protostar требует версию Git 2.28 или выше.
 
 
-### Install Protostar Dependencies
+### Установка зависимостей Protostar
 ```
 protostar install
 ```
 
-### Compile Contracts
+### Компиляция контрактов
 ```
 protostar build
 ```
 
-### Run Tests
+### Запуск тестов
 ```
 protostar test
 ```
 
-### Run Scripts
+### Запуск скриптов
 
 
 #### Setup a local virtual env
